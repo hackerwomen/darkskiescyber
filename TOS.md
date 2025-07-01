@@ -12,6 +12,7 @@ Welcome to the **Dark Skies Cyber League**, a digital mirror to the skies, refle
 
 - **Coordinates:** *(Work in progress)*  
   38.59732, -77.188832
+  
   00x000000, 00x000000
 
 We operate under the shared identity of the **Dark Skies Cyber League**, promoting intersectional dialogue and collaboration across global cyber and risk domains.
