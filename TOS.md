@@ -10,6 +10,8 @@ Welcome to the **Dark Skies Cyber League**, a digital mirror to the skies, refle
 
 - **Digital Mirror:** Observation and reflection converge to map evolving constellations of threats and opportunities.
 
+ -- * Please begin here: https://www.gokgs.com/
+
 - **Coordinates:** *(Work in progress)*  
   38.59732, -77.188832
   
