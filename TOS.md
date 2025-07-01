@@ -1,8 +1,13 @@
 ⭐ Dark Skies Cyber League — Terms of Service
 
-Welcome to the Dark Skies Cyber League
+Welcome to the Dark Skies Cyber League.
+A digital mirror to the skies, reflecting the unseen signals of risk and the bright sparks of insight.
+
+As a League of Volunteers under the International Dark Skies, we are dedicated to fostering intersectional dialogue and global collaboration across the cyber and risk domains. Here, observation and reflection converge to map the evolving constellation of threats and opportunities.
+
 This forum forges a digital mirror to the skies:
- Coordinates: (38.59732, -77.188832)
+Coordinates: (A work in progress) 
+(38.59732, -77.188832)
 We gather under the shared identity of Dark Skies Cyber, League of Volunteers.
 This mission, under International Dark Skies, is to promote intersectional dialogue and collaboration across global cyber and risk domains. This is a space where:
 Risk may be individual.
