@@ -1,0 +1,8 @@
+name=gtpProg
+password=pxss!rd
+room=cyberdarkskies
+mode=auto
+automatch.speed=blitz,medium
+automatch.rank=20k
+verbose=t
+engine=/home/wms/src/gnugo-3.4/interface/gnugo --mode gtp
