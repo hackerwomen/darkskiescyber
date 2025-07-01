@@ -28,6 +28,7 @@ We operate under the shared identity of the **Dark Skies Cyber League**, promoti
 **Engage wisely**: assess your personal risk tolerance and safeguard your operational security.
 
 > *“My lane is not your lane. I must use indicators to switch lanes.”*
+> *"The valor in claiming one’s own territory is the source of life."*
 
 ---
 
