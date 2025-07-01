@@ -1,8 +1,30 @@
-name=gtpProg
-password=pxss!rd
-room=cyberdarkskies
+# gokgsGtp - Config file for running a GTP engine on KGS
+# Dark Skies Cyber League
+# https://github.com/hackerwomen/darkskiescyber
+
+# KGS account credentials
+name=CyberDarkSkiesBot
+password=SuperSecretPassword
+
+# Room to join on KGS
+room=English Room
+
+# Mode options
 mode=auto
-automatch.speed=blitz,medium
+automatch.speed=blitz,medium,fast
 automatch.rank=20k
+
+# Engine command
+engine=/usr/local/bin/gnugo --mode gtp
+
+# Verbosity
 verbose=t
-engine=/home/wms/src/gnugo-3.4/interface/gnugo --mode gtp
+
+# Custom messaging to invite players to Dark Skies Cyber
+talk=I am CyberDarkSkiesBot, part of Dark Skies Cyber League. Come join our community: https://github.com/hackerwomen/darkskiescyber
+
+# Game notes shown in any open games
+gameNotes=Join the Dark Skies Cyber League community: https://github.com/hackerwomen/darkskiescyber
+
+# Logging (optional)
+# logFile=/var/log/kgsGtp.log
