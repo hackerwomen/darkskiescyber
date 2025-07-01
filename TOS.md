@@ -1,68 +1,89 @@
-⭐ Dark Skies Cyber League — Terms of Service
+# ⭐ Dark Skies Cyber League — Terms of Service
 
-Welcome to the Dark Skies Cyber League.
-A digital mirror to the skies, reflecting the unseen signals of risk and the bright sparks of insight.
+## 1. Welcome
 
-As a League of Volunteers under the International Dark Skies, we are dedicated to fostering intersectional dialogue and global collaboration across the cyber and risk domains. Here, observation and reflection converge to map the evolving constellation of threats and opportunities.
+Welcome to the **Dark Skies Cyber League**, a digital mirror to the skies, reflecting unseen signals of risk and sparks of insight. As a League of Volunteers under **International Dark Skies**, we foster intersectional dialogue and global collaboration across cyber and risk domains.
 
-This forum forges a digital mirror to the skies:
-Coordinates: (A work in progress) 
-(38.59732, -77.188832)
-We gather under the shared identity of Dark Skies Cyber, League of Volunteers.
-This mission, under International Dark Skies, is to promote intersectional dialogue and collaboration across global cyber and risk domains. This is a space where:
-Risk may be individual.
+---
 
+## 2. Mission & Identity
 
-Risk may be geopolitical, ex/communicable, shared, censored, or amplified.
+- **Digital Mirror:** Observation and reflection converge to map evolving constellations of threats and opportunities.
+- **Coordinates:** *(Work in progress)* — 38.59732, -77.188832
 
+We operate under the shared identity of the **Dark Skies Cyber League**, promoting intersectional dialogue and collaboration across global cyber and risk domains.
 
-Risk to academic researcher safety is recognized as an occupational hazard.
+---
 
+## 3. Scope
 
-Risk is a tabletop game—and this is an academic research community forum.
+- This forum is **open** and **voluntary**.
+- Participation is **individual**, unless governed by applicable law or policy.
+- **No formal vetting** or background checks are performed.
 
+**Engage wisely**: assess your personal risk tolerance and safeguard your operational security.
 
+> *“My lane is not your lane. I must use indicators to switch lanes.”*
 
-Scope
-This forum is an open, voluntary space for discussion and exchange. Participation is entirely at the will of each individual—unless circumstances dictate otherwise under applicable law or governance policies.
-At this time:
-No formal background checks are conducted on participants.
+---
 
+## 4. Export Compliance
 
-No formal vetting of identities or affiliations is performed.
+Participants are responsible for compliance with **all applicable export laws and sanctions**.  
+The forum disclaims any liability for the unauthorized distribution of controlled technical data.
 
+---
 
-This means:
-Engage wisely.
+## 5. Intellectual Property
 
+- Respect intellectual property boundaries.
+- Sharing materials **may affect proprietary claims**.
+- Content is considered to be in the **public domain** unless explicitly marked otherwise.
 
-Assess your personal risk tolerance before sharing sensitive information.
+---
 
+## 6. Privacy & Security
 
-Protect your operational security as you deem necessary.
+- **Absolute privacy cannot be guaranteed.**
+- Use operational security and discretion.
+- **Avoid sharing sensitive or identifying information.**
 
+---
 
-Repeat after me: “My lane is not your lane. I must use indicators to switch lanes.”
+## 7. Community Conduct
 
+- Engage with **respect** and avoid personal attacks.
+- Value **cultural differences**.
+- Moderators may remove disruptive individuals, without external oversight, to maintain the forum’s safety and integrity.
 
+---
 
-Export Compliance
-Participants are responsible for complying with all applicable export control laws and sanctions regimes. The forum disclaims liability for any unauthorized transmission of controlled technical data.
+## 8. Liability Disclaimer
 
-Intellectual Property
-Participants agree to respect intellectual property boundaries and acknowledge that sharing information here may forfeit certain proprietary claims. Sharing does not imply waiver of intellectual property protections. All discussions in this forum are considered public domain unless explicitly marked otherwise.
+- This forum is for **lawful discussion and research** only.
+- We **do not endorse illegal activities**.
+- Participants act at their **own risk and responsibility**, using global resources as needed.
 
-Privacy & Security Notice
-Absolute privacy cannot be guaranteed. Participants should exercise operational security and discretion in sharing sensitive or identifying information. Watch your watch words.
+---
 
-Community Conduct
-Participants agree to engage respectfully, avoid personal attacks, and respect cultural differences. Moderators reserve the right to remove disruptive individuals and to do so to the fullest extent of their capability, without external oversight, to protect the integrity, safety, and collaborative spirit of the community.
+## 9. Mindsets Beyond Borders
 
-Liability Disclaimer
-This forum exists for lawful discussion and research. The community and its organizers do not endorse or condone illegal activities. Participants act solely on their own responsibility, recognizance, and, where necessary, with global resources.
+We affirm that intellectual curiosity transcends borders.  
+However, participants remain responsible for complying with laws governing technical knowledge transfer.
 
-Mindsets Beyond Borders
-We affirm that mindsets and intellectual curiosity transcend borders; this . However, participants remain responsible for compliance with laws governing the transfer of technical knowledge.
+---
 
-Third-Party Platforms
-This community may utilize third-party tools (e.g., KGS, CGoban) whose terms of service and privacy policies are independent of this forum. Participants use such tools at their own discretion and risk.
+## 10. Third‑Party Platforms
+
+We may use tools like **KGS** or **CGoban**, whose **terms and privacy policies are independent of this forum**.  
+Using these platforms is **at your own discretion and risk**.
+
+---
+
+### ✍️ Notes on Style & Structure
+
+1. **Headings & Numbering:** Clear sections help navigation and reference.
+2. **Bolded Terms:** Key concepts stand out (e.g., privacy, compliance).
+3. **Line Spacing:** Improves readability.
+4. **Quotes & Emphasis:** Highlight important mottos, legal notices, or reminders.
+5. **Legal Formatting:** Sections are well-separated and labeled for clarity.
