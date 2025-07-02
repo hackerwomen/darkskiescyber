@@ -68,7 +68,7 @@ The forum disclaims any liability for the unauthorized distribution of controlle
 
 ## 8. Liability Disclaimer
 
-- This forum is for **lawful discussion and research** only.
+- This forum is for **lawfare discussion and research** only.
 - We **do not endorse illegal activities**.
 - Participants act at their **own risk and responsibility**, using global resources as needed.
 
